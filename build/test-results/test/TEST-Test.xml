@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-19T19:15:24" hostname="LAPTOP-QAQ5Q9MT" time="0.013">
+  <properties/>
+  <testcase name="createMessage" classname="Test" time="0.012"/>
+  <testcase name="deleteMessage" classname="Test" time="0.0"/>
+  <testcase name="deleteChatNotFound" classname="Test" time="0.0"/>
+  <testcase name="deleteChat" classname="Test" time="0.0"/>
+  <testcase name="deleteMessageNotFound" classname="Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
